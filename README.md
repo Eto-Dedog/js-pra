@@ -1,5 +1,5 @@
 # js практика
-## 1 урок - https://eto-dedog.github.io/js-pra/ja_pra_1/
+## 1 урок - https://eto-dedog.github.io/js-pra/js_pra_1/
 ## 2 урок - https://eto-dedog.github.io/js-pra/js_pra_2/
 ## 3 урок - https://eto-dedog.github.io/js-pra/js_pra_3/
 ## 4 урок - https://eto-dedog.github.io/js-pra/js_pra_4/
