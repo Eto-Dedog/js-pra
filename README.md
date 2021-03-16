@@ -11,9 +11,9 @@
 ## 10 урок - https://eto-dedog.github.io/js-pra/js_pra_10/
 ## 11 урок - https://eto-dedog.github.io/js-pra/js_pra_11/
 ## 12 урок - https://eto-dedog.github.io/js-pra/js_pra_12/
-## 13 урок - 
-## 14 урок - 
-## 15 урок - 
-## 16 урок - 
-## 17 урок - 
-## 18 урок - 
+## 13 урок - https://eto-dedog.github.io/js-pra/js_pra_13/
+## 14 урок - https://eto-dedog.github.io/js-pra/js_pra_14/
+## 15 урок - https://eto-dedog.github.io/js-pra/js_pra_15/
+## 16 урок - https://eto-dedog.github.io/js-pra/js_pra_16/
+## 17 урок - https://eto-dedog.github.io/js-pra/js_pra_17/
+## 18 урок - https://eto-dedog.github.io/js-pra/js_pra_18/
